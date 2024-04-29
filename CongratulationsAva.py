@@ -30,7 +30,7 @@ turtle.speed(0)
 turtle.hideturtle()
 
 # Draw text
-draw_text("Congratulations Ava Taylor\nGood Luck at St. Ed's", 20, 0, 100)
+draw_text("Congratulations Ava!\nGood Luck at St. Ed's.", 20, 0, 100)
 
 # Draw multiple firework patterns
 for _ in range(10):
